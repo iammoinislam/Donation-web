@@ -250,6 +250,7 @@
     border-radius: 5px;
     font-size: 26px;
     padding-top: 5%;
+    box-shadow: 10px 10px 10px 10px   gray;
 }
 #fstbx p{
     padding-top: 4%;
@@ -344,14 +345,21 @@ img{
 #lastttbtn{
     color: white;
     background-color: rgb(201, 75, 75);
+    width: 50%;
+   padding: 20px 40px;
+    text-align: center;
+    padding-top: 20px;
     padding: 20px 40px;
     border-radius: 10px;
-    text-decoration: none;  
     cursor: pointer;
     font-size: 25px;
     letter-spacing: 2px;
-    
+   text-decoration: none;
+   
 }
+   
+    
+
 .ending{
     text-align: center;
     padding-top: 8%;
@@ -392,6 +400,7 @@ img{
     color: rgba(192, 189, 189, 0.788);
    margin-top: 7%;
   margin-left:23%;
+  border: none;
 
 }
 .lastbox form input:last-child{
@@ -401,24 +410,35 @@ img{
     margin-right: 15%;
     display: inline-block;
     cursor: pointer;
+    border: none;
 }
-#footer{
-    background-color: black;
-    padding-top: 8%;
-    margin-top: 8%;
-   
+.footer{
     text-align: center;
+    margin-top: 5%;
+    background-color: black;
     color: white;
-    
+    padding-top: 3%;
+    padding-bottom: 3%;
+    font-size: 35px;
+    background-attachment: fixed;
+    border-top-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+  
 }
-#lastfoot{
-    font-size: 56px;
-   text-align: center;
-   justify-content: center;
-   display: flex;
-align-items: center;
-   
+.footer h2{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color:rgb(201, 75, 75);
+}
+.footer p{
+    margin-top: 1%;
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+    color:rgba(192, 189, 189, 0.788);
+}
 
 
-}
+
+
+
 
