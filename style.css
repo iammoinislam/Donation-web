@@ -1,0 +1,424 @@
+*{
+    font-family: 'Fjalla One', sans-serif;
+    margin: 0;
+    padding: 0;
+    margin-top: 0%;
+    }
+
+.front {
+    background-image: url(images/donation13.jpg);
+    background-size: 100%;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-blend-mode: darken;
+ 
+    
+}
+.text{
+    text-align: center;
+    padding-top: 20%;
+    justify-content: center;
+    font-size: 46px;
+    color: white;
+    letter-spacing: 2px;
+    
+    
+}
+#sec-text{
+    text-align: center;
+    padding-top: 1%;
+    justify-content: center;
+    font-size: 85px;
+    color: white;
+    letter-spacing: 2px;
+    
+}
+.paragraph{
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    letter-spacing: 3px;
+    font-size: 20px;
+
+    
+}
+#btn{
+    color: white;
+    background-color: rgb(201, 75, 75);
+    padding: 20px 40px;
+    border-radius: 10px;
+    text-decoration: none;  
+    cursor: pointer;
+    font-size: 25px;
+    letter-spacing: 2px;
+    
+    
+}
+.button{
+    text-align: center;
+    padding-top: 3%;
+
+}
+.middle h2{
+    text-align: center;
+    padding-top: 7%;
+   font-weight: 600;
+   font-size: 60px;
+
+}
+.middle p{
+    text-align: center;
+    padding-top: 1%;
+    font-size: 30px;
+    font-weight: 100;
+    font-family:'Times New Roman', Times, serif;
+    color: rgba(133, 131, 129, 0.377);
+    
+}
+
+#block1{
+    color: rgb(58, 58, 58);
+    background-color: rgba(117, 109, 109, 0.13);
+    padding: 50px 50px;
+    border-radius: 6px;
+    text-decoration: none;  
+    cursor: pointer;
+    font-size:30px;
+    letter-spacing: 2px;
+    font-weight: 1000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+#block2{
+    color: rgb(58, 58, 58);
+    background-color: rgba(223, 61, 61, 0.164);
+    padding: 50px 50px;
+    border: 3px solid rgba(236, 72, 72, 0.904);
+    border-radius: 6px;
+    text-decoration: none;  
+    cursor: pointer;
+    font-size:30px;
+    letter-spacing: 2px;
+    font-weight: 1000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+#block3{
+    color: rgb(58, 58, 58);
+    background-color: rgba(117, 109, 109, 0.13);
+    padding: 50px 50px;
+    border-radius: 6px;
+    text-decoration: none;  
+    cursor: pointer;
+    font-size:30px;
+    letter-spacing: 2px;
+    font-weight: 1000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#block4{
+    color: rgb(58, 58, 58);
+    background-color: rgba(117, 109, 109, 0.13);
+    padding: 50px 50px;
+    border-radius: 6px;
+    text-decoration: none;  
+    cursor: pointer;
+    font-size:30px;
+    letter-spacing: 2px;
+    font-weight: 1000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#block5{
+    color: rgb(58, 58, 58);
+    background-color: rgba(117, 109, 109, 0.13);
+    padding: 50px 50px;
+    border-radius: 6px;
+    text-decoration: none;  
+    cursor: pointer;
+    font-size:30px;
+    letter-spacing: 2px;
+    font-weight: 1000;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.block01{
+    text-align: center;
+    padding-top: 6%;
+    padding-right: 0%;
+    padding-left: 1%;
+    letter-spacing: 12px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.midlast{
+    text-align: center;
+    padding-top: 8%;
+    border-bottom: 2px solid rgba(117, 109, 109, 0.13);
+    padding-bottom: 1%;
+    margin-left: 21%;
+    margin-right: 19%;
+    
+}
+
+ .midlast p{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    color:rgba(133, 131, 129, 0.377);
+    text-align: center;
+    
+ }
+ #btn1{
+    
+        color: white;
+        background-color: rgb(201, 75, 75);
+        padding: 20px 40px;
+        border-radius: 10px;
+        text-decoration: none;  
+        cursor: pointer;
+        font-size: 25px;
+        letter-spacing: 2px;
+        
+ }
+.lastbt{
+    text-align: center;
+    padding-top: 3%;
+
+}
+.ourdp{
+    text-align: center;
+    padding-top: 7%;
+    font-size: 50px;
+    letter-spacing: 2px;
+    font-weight: 400;
+}
+ .ourdp p{
+    font-size: 25px;
+    color: rgba(133, 131, 129, 0.377);
+    padding-top: 2%;
+    font-family:'Times New Roman', Times, serif;
+    padding-bottom: 5%;
+ }
+ .first{
+    height: 350px;
+    width:700px;
+    background-color: rgba(174, 182, 178, 0.562);
+
+   
+    padding: 50px 50px;
+ }
+ .secnd{
+    height: 350px;
+    width:700px;
+    background-color: rgba(253, 201, 230, 0.39);
+    
+    padding: 50px 50px;
+
+ }
+ .third{
+    height: 350px;
+    width:700px;
+    background-color: rgba(235, 229, 156, 0.712);
+   
+    
+    padding: 50px 50px;
+    border-radius: 5px;
+    font-size: 26px;
+    padding-bottom: 5%;
+ 
+ }
+
+.lastbx{
+    display: flex;
+    padding-left: 10%;
+    padding-right: 10%;
+    padding-bottom: 10%;
+ 
+   
+   
+    
+    
+    
+}
+#fstbx{
+    margin-right: 2%;
+    border-radius: 5px;
+    font-size: 26px;
+    padding-top: 5%;
+
+}
+#secbx{
+   margin-right: 2%;
+    border-radius: 5px;
+    font-size: 26px;
+    padding-top: 5%;
+}
+#fstbx p{
+    padding-top: 4%;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+
+}#fstbx h3{
+    padding-top: 6%;
+    letter-spacing: 2px;
+}
+#secbx p{
+    padding-top: 4%;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+
+}
+#secbx h3{
+    padding-top: 6%;
+    letter-spacing: 2px;
+}
+.third p{
+    padding-top: 8%;
+    font-weight: 300;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 24px;
+  
+
+
+}
+.third h3{
+    padding-top: 8%;
+    letter-spacing: 2px;
+    
+}
+.contribution{
+    display: flex;
+    margin-left: 10%;
+    margin-right: 10%;
+}
+#contri{
+    font-size: 52px;
+    letter-spacing: 2px;
+}
+#contri p{
+    font-size: 30px;
+    padding-top: 7%;
+    padding-right: 22%;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: normal;
+    color:  rgba(133, 131, 129, 0.377);
+}
+img{
+    border-radius: 1%;
+}
+#lasttbtn{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(201, 75, 75);
+    padding: 20px 40px;
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 25px;
+    letter-spacing: 2px;
+    margin-left: 10%;
+    text-align: center;
+}
+.lastsection {
+    display: flex;
+    margin-left: 10%;
+    padding-top: 10%;
+}
+.lastwr{
+    font-size: 52px;
+    letter-spacing: 2px;
+    padding-left: 10%;
+    padding-right: 20%;
+    padding-top: 3%
+  ;
+}
+.lastwr p{
+    font-size: 30px;
+    padding-top: 5%;
+    padding-right: 22%;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: normal;
+    padding-bottom: 17%;
+    color:  rgba(133, 131, 129, 0.377);
+
+}
+#lastttbtn{
+    color: white;
+    background-color: rgb(201, 75, 75);
+    padding: 20px 40px;
+    border-radius: 10px;
+    text-decoration: none;  
+    cursor: pointer;
+    font-size: 25px;
+    letter-spacing: 2px;
+    
+}
+.ending{
+    text-align: center;
+    padding-top: 8%;
+    font-size: 45px;
+    font-weight: 300;
+    letter-spacing: 2px;
+}
+.ending p{
+    padding-top: 1%;
+    font-size: 28px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+    letter-spacing: normal;
+    color:  rgba(133, 131, 129, 0.377);
+    text-align: center;
+}
+.lastbox{
+    background-color: rgba(224, 219, 168, 0.788);
+    height: 170px ;
+    width: 50%;
+
+    margin: auto;
+   
+   
+  align-items: center;
+  margin-top: 3%;
+  border-radius: 2px;
+}
+.lastbox form input:first-child{
+
+
+    display: inline-block;
+    width:30%;
+    padding: 14px 130px 14px 15px;
+    
+    outline: none;
+    border-radius: 0px;
+    color: rgba(192, 189, 189, 0.788);
+   margin-top: 7%;
+  margin-left:23%;
+
+}
+.lastbox form input:last-child{
+    background-color: rgb(201, 75, 75);
+    color: white;
+    padding: 14px 20px;
+    margin-right: 15%;
+    display: inline-block;
+    cursor: pointer;
+}
+#footer{
+    background-color: black;
+    padding-top: 8%;
+    margin-top: 8%;
+   
+    text-align: center;
+    color: white;
+    
+}
+#lastfoot{
+    font-size: 56px;
+   text-align: center;
+   justify-content: center;
+   display: flex;
+align-items: center;
+   
+
+
+}
+
